@@ -40,3 +40,18 @@ body {
 	padding: 5px;
 	border-radius: 5px;
 }
+
+#explore-section .fas,
+#share-section .fas {
+	background: #333;
+	color: #fff;
+	padding: 5px;
+	border-radius: 5px;
+}
+
+#create-head-section {
+	background: #008ed6;
+	color: #fff;
+	padding: 5px;
+	border-radius: 5px;
+}
