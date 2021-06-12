@@ -42,7 +42,8 @@ body {
 }
 
 #explore-section .fas,
-#share-section .fas {
+#share-section .fas,
+#create-section .fas {
 	background: #333;
 	color: #fff;
 	padding: 5px;
